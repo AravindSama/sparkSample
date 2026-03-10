@@ -1,0 +1,39 @@
+# Maven target directory
+/target/
+
+# Maven build output logs
+mvnw
+mvnw.cmd
+.mvn/
+
+# Compiled class files
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# IDE-specific files
+
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+.cache-main
+
+
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
